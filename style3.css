@@ -1,0 +1,19 @@
+.intro {
+  background-color: rgb(239, 244, 255);
+}
+
+body, html {
+    height: 100%;
+  }
+  
+  .intro {
+    height: 100%;
+    padding-top: 5rem;
+    background: url(HLVasNice.jpeg) center/cover no-repeat  fixed; 
+    /*text-align: center;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
